@@ -1,0 +1,28 @@
+
+body{
+ background: #bebebe;
+}
+.box{
+ background: #FFFFFF;
+}
+.boxIleft{
+ background: #33286b;
+ color: #FFFFFF;
+}
+.boxIright{
+ background: #FFFFFF;
+}
+
+.foto {
+ -webkit-filter: grayscale(100%);
+ filter: grayscale(100%);
+ filter: gray; /* IE */
+}
+
+.bg_meublue{
+ background-color: #33286b !important;
+}
+
+a {
+ text-decoration: none;
+}
